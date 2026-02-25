@@ -12,7 +12,7 @@ Arborescence des fichiers
 |   |-- MainWindows.xaml.cs    
 |-- utilitaire.cs     
 `
-objectifs pedagogiques
+objectifs pedagogiques  
 
 1.versionning du code avec git /Github   
 Commande git: git init/ `git clone /git commit/ git push/... `  
